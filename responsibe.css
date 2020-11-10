@@ -1,0 +1,425 @@
+@media (max-width:1400px){
+    .service-tab ul li {
+        padding: 0;
+    }
+   
+}
+
+@media (max-width:1200px){
+    .our-primary-menu ul li a {
+        padding: 10px 10px;
+    }
+    .header-search {
+        width: 60px;
+        font-size: 22px;
+        margin-right: 15px;
+    }
+    body .btn-primary {
+        padding: 10px 23px;
+        font-size: 10px;
+    }
+    .header-call {
+        width: 190px;
+    }
+    .testimonial-content p {
+        font-size: 17px;
+    }
+    
+element {
+
+}
+.service-tab ul li {
+
+    padding: 20px 63px;
+
+}
+.service-tab ul li {
+
+    padding: 20px 20px;
+
+}
+.service-tab ul li {
+
+    padding: 0 20px;
+
+}
+.service-tab ul li {
+
+    padding: 20px 20px;
+
+}
+.services-tab-content ul li {
+
+    position: relative;
+
+}
+.services-tab-content-text ul li {
+    padding: 0;
+}
+
+.services-tab-content-text ul li {
+    padding: 3px;
+}
+    .services-tab-content h3 {
+        font-size: 21px;
+        margin-bottom: 5px;
+    }
+    .services-tab-content p {
+        font-size: 14px;
+        line-height: 1.7;
+    }
+    .service-tab ul li {
+        padding: 20px 20px;
+    }
+    .service-tab ul {
+        padding-bottom: 0px;
+    }
+    .service-tab ul li {
+        padding: 0 20px;
+    }
+    .service-tab ul li {
+        padding: 20px 20px;
+    }
+    .service-tab ul {
+        padding-bottom: 16px;
+    }
+    .header-call-info a {
+        font-size: 14px;
+    }
+    .call-phone .call-number a {
+        font-size: 27px;
+    }
+    .call-to-action-bg h1 {
+        font-size: 29px;
+    }
+    .slider-content h1 {
+        font-size: 40px;
+    }
+    .slider-content p {
+        font-size: 17px;
+        color: black;
+    }
+    .about-img-text p {
+            font-size: 18px;}
+            .about-img-text h2 {
+                font-size: 32px;
+            }
+            .about-img-text {
+                right: -3px;
+                bottom: 0;
+                height: 170px;
+                width: 156px;
+
+            }
+            .finix-text p {
+                font-size: 16px;
+            }
+            .finix-text h2 {
+                font-size: 26px;
+                margin: 18px 0;
+            }
+            .finix-text ul {
+                margin-top: 8px;
+                margin-bottom: 15px;
+            }
+            .finix-text ul li {
+                margin: 5px 0;
+            }
+            .py-5 {
+                padding-top: 1rem !important;
+                padding-bottom: 2rem !important;
+            }
+            .call-to-action-bg {
+                padding: 35px 50px;
+            }
+            .call-to-action-bg h1 {
+                font-size: 26px;
+            }
+            .call-phone {
+                margin-top: 13px;
+            }
+            .call-number {
+                margin-top: 9px;
+            }
+    
+}
+/* This is 1080px secxtion media */
+@media(max-width:1080px){
+    .apply-now-left-text h2 {
+        font-size: 33px;
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }
+    .services-tab-content-text ul li {
+        padding: 3px;
+    }
+    .border-class h3 {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 0px;
+        margin-top: 26px;
+    }
+    .finix-text p {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .features-item::before {
+        top: -239px;
+        width: 100%;
+        height: 70%;}
+        .ft-icon i {
+            font-size: 31px;
+            height: 80px;
+            width: 80px;
+         
+        }
+  
+  
+}
+
+/* This is 992px section */
+@media (max-width:992px){
+    .call-to-action-bg {
+        padding: 10px 50px;
+    }
+    .call-to-action-bg h1 {
+        font-size: 19px;
+    }
+    .call-phone .call-icon {
+        font-size: 30px;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+     
+        margin-right: 15px;
+        margin-top: 8px;
+    }
+    .upper-image img {
+        bottom: -109px;
+        right: 35px;
+    }
+    .border-class h3 {
+        font-size: 14px;
+    }
+
+      
+        .upper-image img {
+            bottom: -126px;
+            right: 10px;
+        }
+        .image-text p {
+           font-size: 18px;
+        }
+    .call-number {
+        margin-top: 18px;
+    }
+    .call-phone .call-number a {
+        font-size: 18px;
+    }
+    .company-values-item .c-icon {
+        font-size: 35px;
+        margin-right: 6px;
+    }
+    .company-values h1 {
+        font-size: 26px;
+    }
+    .testimonial-image span i {
+    
+      
+        left: -114px;
+        bottom: -138px;
+      
+    }
+    .mb-5 {
+        margin-bottom: 1rem !important;
+    }
+    .company-values-item .c-text h2 {
+        font-size: 21px;
+        margin-bottom: 3px;
+    }
+    .company-values-item .c-text p {
+        font-size: 14px;
+        
+    }
+    .company-values-item {
+        margin-bottom: 0px;
+    }
+    .service-tab ul li {
+        padding: 20px 63px;
+    }
+    .services-tab-content-text ul li {
+        padding: 0;
+    }
+    .blog-image-content a {
+     
+        font-size: 15px;
+    }
+    .blog-image-content h3 a {
+      
+        font-size: 18px;
+    }
+}
+
+/* This is 768px section media */
+@media(max-width:768px){
+    .about-img-text {
+        right: 10px;
+        bottom: 0;
+       
+        height: 187px;
+        width: 170px;
+    
+    }
+    .sticky-top {
+        position: inherit;
+        top: 0;
+    }
+    .testimonial-image span i {
+        font-size: 30px;
+        height: 70px;
+        width: 70px;
+        line-height: 70px;
+    
+        left: -56px;
+        bottom: -122px;
+     
+    }
+    .services-tab-content-text ul li {
+        padding: 0;
+    }
+    .testimonial-content p {
+        font-size: 14px;
+    }
+    .finix-text h2 {
+        font-size: 22px;
+        margin: 12px 0;
+    }
+    .call-to-action-bg .call-left {
+        border: none;
+        margin-bottom: -20px;
+    }
+    .call-to-action-bg h1 {
+        font-size: 17px;
+        line-height: 33px;
+    }
+    .call-phone .call-icon {
+        font-size: 25px;
+        width: 41px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 15px;
+        margin-top: 12px;
+    }
+    .about-img {
+        margin-bottom: 39px;
+    }
+    .slider-social-icon ul li a {
+        font-size: 18px;
+        padding: 0px 8px;
+    }
+    .service-tab ul li {
+        padding: 20px 0px;
+    }
+ 
+}
+/* This is 576px section media */
+@media (max-width:576px){
+    .about-img-text p {
+        font-size: 14px;
+    }
+    .about-img-text h2 {
+        font-size: 35px;
+    }
+    .about-img-text {
+        right: 3px;
+        bottom: 0;
+        height: 150px;
+        width: 150px;
+  
+    }
+    .member-content {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .testimonial-image span i {
+    
+        left: -212px;
+        bottom: -200px;
+    }
+    .services-tab-content-text ul li {
+        padding: 0;
+    }
+    .service-tab ul li {
+        padding: 20px 0px;
+    }
+    .finix-text p {
+        font-size: 14px;
+    }
+    .finix-text h2 {
+        font-size: 17px;
+        margin: 11px 0;
+    }
+}
+/* This is 420px section media */
+@media (max-width:420px){
+    .slider-social-icon ul li a {
+        font-size: 19px;
+        padding: 0px 8px;
+    }
+    .services-tab-content-text ul li {
+        padding: 0;
+    }
+    .service-tab ul li {
+        padding: 20px 10px;
+    }
+    
+    .slider-social-icon span {
+        font-size: 15px;
+        margin-right: 41px;
+    }
+    .about-img-text {
+        right: 0px;
+        bottom: 0;
+        height: 120px;
+        width: 120px;
+    }
+    .about-img-text h2 {
+        font-size: 29px;
+    }
+    .about-img-text p {
+        font-size: 11px;
+    }
+    .steptime-line ul li p {
+        font-size: 15px;
+    }
+    .steptime-line ul li strong {
+        font-size: 21px;
+        margin-bottom: 5px;
+    }
+    .steptime-line {
+        margin-top: -16px;
+    }
+    .apply-now-left-text {
+        margin-top: -65px;
+    }
+    .apply-now-left-text h2 {
+        font-size: 25px;
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }
+    .call-to-action-bg h1 {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .call-phone .call-number a {
+        font-size: 16px;
+    }
+    .call-phone .call-icon {
+        font-size: 22px;
+        width: 36px;
+        height: 35px;
+        line-height: 35px;
+        margin-right: 9px;
+        margin-top: 12px;
+    }
+}
